@@ -25,6 +25,7 @@ body {
   font-size: 19px;
   border-radius: 3px;
   padding: 12px;
+  outline:none;
 }
 .search-icon {
   background-color: #f1f5f9;
