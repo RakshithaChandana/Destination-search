@@ -1,0 +1,21 @@
+/* Write your CSS here */
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0px;
+}
+.image {
+  height: 280px;
+  width: 400px;
+}
+.images-container {
+  list-style-type: none;
+  margin-bottom: 40px;
+  padding: 10px;
+}
+.name {
+  font-size: 25px;
+  font-family: 'Open Sans';
+  color: #252627;
+}
